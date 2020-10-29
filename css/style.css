@@ -292,6 +292,9 @@ h2{
 }
 
 @media screen and (max-width:1024px){
+	.container{
+		padding: 0 1em;
+	}
 	.project-details{
 		font-size: 12px;
 	}
@@ -368,6 +371,17 @@ h2{
 	.event-details{
 		margin: -2.em 0.5em 0.5em 0.5em;
 		padding: 1em;
+	}
+	.contact{
+		height: auto;
+		padding: 1em 0;
+		text-align: center;
+		display: block;
+	}
+	.footer{
+		display: block;
+		text-align: center;
+		border: 1px solid transparent;
 	}
 
 }
