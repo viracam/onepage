@@ -1,5 +1,7 @@
 images/
 fonts/
+videos/
+*.mp4
 *.jpg
 *.png
 *.svg
